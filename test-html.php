@@ -16,5 +16,12 @@
       </div>
       </a>
     </div>
+
+    <form class="" action="new.php" method="post">
+      <label for="">Entre un chiffre pour voir si tu as gagné le dernier Ipad</label>
+      <input type="text" name="" value="">
+      <button type="submit" name="button">Valider</button>
+    </form>
+    
   </body>
 </html>
