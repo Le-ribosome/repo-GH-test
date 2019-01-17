@@ -8,6 +8,6 @@
   </head>
   <body>
 
-    <iframe src="https://www.youtube.com/watch?v=oHg5SJYRHA0" width="100%" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oHg5SJYRHA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </body>
 </html>
