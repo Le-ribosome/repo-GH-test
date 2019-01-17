@@ -7,6 +7,11 @@
   <body>
     <div class="divTest">
       <p>Je suis un fichier php</p>
+
+      <div class="image">
+        
+
+      </div>
     </div>
   </body>
 </html>
