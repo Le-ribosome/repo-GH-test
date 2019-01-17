@@ -2,7 +2,8 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Mon exo OCR pour les repository</title>
+    <link rel="stylesheet" href="style-test.css">
   </head>
   <body>
     <div class="divTest">
